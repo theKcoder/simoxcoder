@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @simoxcoder
+- 👋 Hi, I’m simox coder
 - 👀 I’m interested in --> development
-- 🌱 I’m currently learning --> web development
-- 💞️ I’m looking to collaborate on --> full stack web developer
-- 📫 How to reach me ...
+- 🌱 I’m currently learning --> tech
+- 💞️ I’m looking to collaborate on --> my self
+- 📫 How to reach me ... @simoxcoder
 
 <!---
 simoxcoder/simoxcoder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
