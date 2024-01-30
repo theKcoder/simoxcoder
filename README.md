@@ -1,4 +1,4 @@
-- 👋 Hi, I’m simox coder
+- 👋 Hi, I’m The coder
 - 👀 I’m interested in --> development
 - 🌱 I’m currently learning --> tech
 - 💞️ I’m looking to collaborate on --> my self
